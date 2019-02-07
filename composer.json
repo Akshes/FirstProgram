@@ -1,0 +1,13 @@
+{
+    "name": "sanja/first-program",
+    "type": "project licence mit",
+    "require": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Akshesh Patel",
+            "email": "47195718+Akshes@users.noreply.github.com"
+        }
+    ]
+}
